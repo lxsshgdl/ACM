@@ -4,3 +4,6 @@
 .vscode/settings.json
 *.exe
 test.cpp
+test.java
+test.c
+test.python

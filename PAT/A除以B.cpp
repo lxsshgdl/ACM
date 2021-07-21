@@ -1,7 +1,7 @@
 // https://pintia.cn/problem-sets/994805260223102976/problems/994805305181847552
 // 新知识点：c++大数除法模拟
 
-// python两行代码即可ac
+// python两行代码即可AC
 // a,b=map(int,input().split())
 // print(a//b,a%b)
 
